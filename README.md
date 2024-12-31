@@ -1,79 +1,5 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
->
-> **Please Note:** You won't need to study as much as I did. I wasted a lot of time on things I didn't need to know. More info about that is below. I'll help you get there without wasting your precious time.
->
-> The items listed here will prepare you well for a technical interview at just about any software company,
-> including the giants: Amazon, Facebook, Google, and Microsoft.
->
-> *Best of luck to you!*
-
-<details>
-<summary>Translations:</summary>
-
-- [Bahasa Indonesia](translations/README-id.md)
-- [Bulgarian](translations/README-bg.md)
-- [Español](translations/README-es.md)
-- [German](translations/README-de.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Marathi](translations/README-mr.md)
-- [Polish](translations/README-pl.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Russian](translations/README-ru.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](translations/README-ur.md)
-- [Uzbek](translations/README-uz.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [简体中文](translations/README-cn.md)
-- [繁體中文](translations/README-tw.md)
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-</details>
-
-
-## What is it?
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-This is my multi-month study plan for becoming a software engineer for a large company.
-
-**Required:**
-* A little experience with coding (variables, loops, methods/functions, etc)
-* Patience
-* Time
-
-Note this is a study plan for **software engineering**, not frontend engineering or full-stack development. There are really
-super roadmaps and coursework for those career paths elsewhere (see https://roadmap.sh/ for more info).
-
-There is a lot to learn in a university Computer Science program, but only knowing about 75% is good enough for an interview, so that's what I cover here.
-For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
-
----
-
 ## Table of Contents
 
 ### The Study Plan
@@ -220,19 +146,6 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-  - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
 Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
 1. ***Fork the GitHub repo:*** `https://github.com/jwasham/coding-interview-university` by clicking on the Fork button.
@@ -268,40 +181,6 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 **[⬆ back to top](#table-of-contents)**
 
-## A Note About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-It would be great to replace the online course resources with free and always-available public sources,
-such as YouTube videos (preferably university lectures), so that you people can study these anytime,
-not just when a specific online course is in session.
-
-**[⬆ back to top](#table-of-contents)**
-
-## Choose a Programming Language
-
-You'll need to choose a programming language for the coding interviews you do,
-but you'll also need to find a language that you can use to study computer science concepts.
-
-Preferably the language would be the same, so that you only need to be proficient in one.
-
-### For this Study Plan
-
-When I did the study plan, I used 2 languages for most of it: C and Python
-
-* C: Very low level. Allows you to deal with pointers and memory allocation/deallocation, so you feel the data structures
-    and algorithms in your bones. In higher-level languages like Python or Java, these are hidden from you. In day-to-day work, that's terrific,
-    but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
-* Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
-
-This is my preference. You do what you like, of course.
-
 You may not need it, but here are some sites for learning a new language:
 - [Exercism](https://exercism.org/tracks)
 - [Codewars](http://www.codewars.com)
@@ -316,11 +195,6 @@ You can use a language you are comfortable in to do the coding part of the inter
 - C++
 - Java
 - Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
 
 Here is an article I wrote about choosing a language for the interview:
 [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
@@ -432,7 +306,6 @@ Make your own for free:
 But if you don't want to listen to me, here you go:
 - [My flash cards database (1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
 - [My flash cards database (extreme - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
-
 Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics.
 It's way too much for what's required.
 
@@ -452,8 +325,6 @@ Some students have mentioned formatting issues with white space that can be fixe
 
 THIS IS VERY IMPORTANT.
 
-Start doing coding interview questions while you're learning data structures and algorithms.
-
 You need to apply what you're learning to solve problems, or you'll forget. I made this mistake.
 
 Once you've learned a topic, and feel somewhat comfortable with it, for example, **linked lists**:
@@ -466,25 +337,6 @@ Once you've learned a topic, and feel somewhat comfortable with it, for example,
 **Keep doing problems while you're learning all this stuff, not after.**
 
 You're not being hired for knowledge, but how you apply the knowledge.
-
-There are many resources for this, listed below. Keep going.
-
-### 4. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
-without lyrics and you'll be able to focus pretty well.
-
-**[⬆ back to top](#table-of-contents)**
-
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- Javascript
-- HTML, CSS, and other front-end technologies
-- SQL
-
-**[⬆ back to top](#table-of-contents)**
 
 ## The Daily Plan
 
@@ -522,12 +374,6 @@ interview books, too, but I found this outstanding:
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then type it and test it out on a computer.
 
-If you don't have a whiteboard at home, pick up a large drawing pad from an art store. You can sit on the couch and practice.
-This is my "sofa whiteboard". I added the pen in the photo just for scale. If you use a pen, you'll wish you could erase.
-Gets messy quickly. **I use a pencil and eraser.**
-
-![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
-
 **Coding question practice is not about memorizing answers to programming problems.**
 
 **[⬆ back to top](#table-of-contents)**
@@ -560,8 +406,6 @@ Challenge/Practice sites:
 - [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
 - [AlgoExpert](https://www.algoexpert.io/product)
     - Created by Google engineers, this is also an excellent resource to hone your skills.
-- [Project Euler](https://projecteuler.net/)
-    - very math-focused, and not really suited for coding interviews
 
 **[⬆ back to top](#table-of-contents)**
 
